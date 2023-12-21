@@ -1,0 +1,44 @@
+.App{
+  display: flex;
+  font-size: larger;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+
+  }
+
+  .Form{
+    height: 500px;
+    background-color: bisque;
+    width: 500px;
+    align-items: center;
+    margin-left: 500px ;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 3px 6px 8px rgba(0,0,0,.4);
+
+  }
+
+  label{
+    font-size: larger;
+    font-weight: 900;
+  }
+
+  input{
+    height: 40px;
+    width: 200px;
+    margin: 20px;
+    border-radius: 10px ;
+    background-color: aqua;
+    font-size: large;
+    font-weight: 700;
+  }
+  .submit{
+    background-color: brown;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    color: white;
+    margin: 10px;
+    font-size: medium;
+  }
