@@ -8,7 +8,7 @@
   }
 
   .Form{
-    height: 500px;
+    
     background-color: bisque;
     width: 500px;
     align-items: center;
@@ -18,7 +18,10 @@
     box-shadow: 3px 6px 8px rgba(0,0,0,.4);
 
   }
-
+p{
+  color: red;
+  font-weight: 700;
+}
   label{
     font-size: larger;
     font-weight: 900;
